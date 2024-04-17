@@ -1,0 +1,187 @@
+.l{
+	position: relative;
+	top: 20px;
+	left: 150px;
+	color: white;
+}
+.h{
+position: relative;
+border: 3px solid black;
+background-color: black;
+width: 1884px;
+height: 100px;
+top: -125px;
+background-image: none;
+}
+.g{
+	position: relative;
+	right: 230px;
+	top: -630px;
+	color: white;
+	text-align: right;
+}
+.u{
+position: relative;
+top: 450px;
+left: 1510px;
+background-color: black;
+border: 1px solid #000000;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+}
+.f{
+top: -780px;
+left: 850px;
+width: 1890px;
+height: 900px;
+background-image: none;
+}
+.o{
+	
+	position: relative;
+	top: -500px;
+	left: 700px;
+}
+.i{
+	position: relative;
+	top: -300px;
+	right: 400px;
+}
+.a{
+position: relative;
+top: -750px;
+left: 570px;
+font-family: Inter, sans-serif;
+font-size: 120px;
+color: white;
+}
+.s{
+position: relative;
+top: -900px;
+left: 730px;
+font-family: Inter, sans-serif;
+font-size: 120px;
+color: white;
+}
+.d{
+position: relative;
+top: -1000px;
+left: 700px;
+font-family: Inter, sans-serif;
+font-size: 20px;
+color: white;
+filter: brightness(75%);
+letter-spacing: 5px;"
+}
+.z{
+top: -780px;
+left: 850px;
+width: 1890px;
+height: 900px;
+background-image: none;
+}
+.q{
+width: 200px;
+position: relative;
+top: -1120px;
+left: 850px;
+background-color: black;
+border: 1px solid #000000;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+}
+.b{
+position: relative;
+border: 3px solid black;
+background-color: black;
+width: 1890px;
+height: 100px;
+top: -2040px;
+background-image: none;
+}
+.w{
+position: relative;
+top: -780px;
+left: -40px;
+background-color: black;
+border: 1px solid black;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+z-index: 999;
+}
+.e{
+position: relative;
+top: -780px;
+left: -40px;
+background-color: black;
+border: 1px solid black;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+z-index: 999;
+}
+.r{
+position: relative;
+top: -780px;
+left: -40px;
+background-color: black;
+border: 1px solid black;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+z-index: 999;
+}
+.t{
+position: relative;
+top: -780px;
+left: -40px;
+background-color: black;
+border: 1px solid black;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+z-index: 999;
+}
+.y{
+position: relative;
+top: -780px;
+left: -40px;
+background-color: black;
+border: 1px solid black;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+z-index: 999;
+}
+
+.q:hover{
+	background-color: #7718FF;
+}
+.w:hover{
+	background-color: #7718FF;
+}
+.r:hover{
+	background-color: #7718FF;
+}
+.e:hover{
+	background-color: #7718FF;
+}
+.y:hover{
+	background-color: #7718FF;
+}
+.t:hover{
+	background-color: #7718FF;
+}
+.u:hover{
+	background-color: #7718FF;
+}
